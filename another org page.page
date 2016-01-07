@@ -1,8 +1,7 @@
-
-
 * Yet another org formated page
 - here we are
 ** some shell
+
 #+BEGIN_SRC shell
 uptime
 #+END_SRC
