@@ -9,6 +9,6 @@ title: test orgmode
 ** title 2
 - item 1
 - item 2
-#-BEGIN_SRC shell
+#+BEGIN_SRC shell
 ls
-#-END_SRC
+#+END_SRC
