@@ -11,4 +11,5 @@ title: test orgmode
 - item 2
 #+BEGIN_SRC shell
 ls
+pwd
 #+END_SRC
