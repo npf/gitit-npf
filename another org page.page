@@ -1,0 +1,5 @@
+* Yet another org formated page
+
+#+BEGIN_SRC shell
+uptime
+#+END_SRC
