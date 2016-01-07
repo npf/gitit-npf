@@ -1,5 +1,9 @@
 ---
+<<<<<<< edited
+format: mediawiki
+=======
 format: org mode
+>>>>>>> 65e9b6d698c7bd1155e0c6d325a5b4464f682c89
 categories: test
 toc: ues
 title: test orgmode
