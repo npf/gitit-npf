@@ -14,6 +14,6 @@ ls
 pwd
 #+END_SRC
 
-[another org page]
+internal link: [[][another org page]]
 
-[[http://www.google.com]]
+external link: [[http://www.google.com]]
